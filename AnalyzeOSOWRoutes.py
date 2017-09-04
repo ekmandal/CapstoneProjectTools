@@ -17,9 +17,9 @@
 #OD Lines Frequency polygon and traffic classification as Interstate, Inbound, Outbound or Intrastate
 
 ############################################################################################################
-# Three Inputs:  is geodatabase polyline featureclass of OSOW route, State boundary polygon, buffer distance
+# Two Inputs:  is geodatabase polyline featureclass of OSOW route, State boundary polygon
 #OSOW route should have fields: LengthFt,HeightFt,Tonnage. A unique Id field will be helpful to join the resulting feature class to the routes
-#Sample input Parameters: "C:\Student\   "  "Routes"  "BoundaryPolygon" 
+
 ####################################################################################################
 #
 #ArcGIS version 10.5
