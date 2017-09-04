@@ -1,7 +1,7 @@
 #############################################################################################################
 #Name: AnalyzeOSOWRoutes.py
 #stand alone python script
-#Requires ArcGIS, Network Analyst extension
+#Requires ArcGIS
 #This script was developed as part of  Capstone project -- ArcGIS Decision Support Tool for Planning Infrastructure Improvement--Penn State MGIS
 #https://gis.e-education.psu.edu/sites/default/files/capstone/Mandal_report_596B_20170715.pdf
 #####################################################
