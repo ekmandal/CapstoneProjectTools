@@ -1,9 +1,9 @@
 #############################################################################################################
 #Name: AnalyzeOSOWRoutes.py
 #stand alone python script
-#Requires ArcGIS
+#Requires ArcGIS, Network Analyst extension
 #This script was developed as part of  Capstone project -- ArcGIS Decision Support Tool for Planning Infrastructure Improvement--Penn State MGIS
-#https://gis.e-education.psu.edu/mgis/capstone_project_library:#this link will be updated to the project report, when the Project Final Report link on PSU MGIS website gets updated
+#https://gis.e-education.psu.edu/sites/default/files/capstone/Mandal_report_596B_20170715.pdf
 #####################################################
 #This project involves the development of an ArcGIS Decision Support Tool Set
 # to assist in planning the allocation of funding for transportation 
