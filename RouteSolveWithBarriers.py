@@ -4,7 +4,7 @@
 #Author: Elsit Mandal, MGIS Program Penn State University-World Campus
 #Date:6/20/17
 #Description: Solve best route for a set of OD pairs and barriers save the output to a prenamed (hard-coded)feature class in the workspace
-#each run will intialize the TIMELOST,Counter,DYN_UPDATE_FLAG  field in bridges, truncate prenamed output fc
+#each run will intialize the ExtraMiles,Counter,DYN_UPDATE_FLAG  field in bridges, truncate prenamed output fc
 
 ######################################
 #
